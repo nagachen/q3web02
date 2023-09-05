@@ -1,0 +1,10 @@
+INSERT INTO `posters` ( `name`, `img`, `sh`) VALUES ('預告片海報01', '03A01', '1')
+INSERT INTO `posters` ( `name`, `img`, `sh`) VALUES ('預告片海報01', '03A02', '1')
+INSERT INTO `posters` ( `name`, `img`, `sh`) VALUES ('預告片海報01', '03A03', '1')
+INSERT INTO `posters` ( `name`, `img`, `sh`) VALUES ('預告片海報01', '03A04', '1')
+INSERT INTO `posters` ( `name`, `img`, `sh`) VALUES ('預告片海報01', '03A05', '1')
+INSERT INTO `posters` ( `name`, `img`, `sh`) VALUES ('預告片海報01', '03A06', '1')
+INSERT INTO `posters` ( `name`, `img`, `sh`) VALUES ('預告片海報01', '03A07', '1')
+INSERT INTO `posters` ( `name`, `img`, `sh`) VALUES ('預告片海報01', '03A08', '1')
+INSERT INTO `posters` ( `name`, `img`, `sh`) VALUES ('預告片海報01', '03A09', '1')
+

@@ -6,7 +6,7 @@
         protected $links;
         
         function __construct($table){
-            $this->dsn= "mysql:host=localhost;charset=utf8;dbname=db04";
+            $this->dsn= "mysql:host=localhost;charset=utf8;dbname=db02";
             $this->pdo=new pdo($this->dsn,'root','');
             $this->table=$table;
         }

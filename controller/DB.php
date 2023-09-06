@@ -15,6 +15,7 @@
         function all(...$arg){
             $sql="select * from $this->table ";
             $sql = $this->sql_all($sql,...$arg);
+           
             return $this->pdo->query($sql)->fetchAll(PDO::FETCH_ASSOC);
         }
         function q($sql){
